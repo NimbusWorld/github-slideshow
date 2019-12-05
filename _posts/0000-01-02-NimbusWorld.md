@@ -2,5 +2,5 @@
 layout: slide
 title: Welcome to our second slide
 ---
-Okay boomer
+Change to something else
 use left arrow to go back
